@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+
+}
+.body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+
+    
+    
+}
+
+.choice-button {
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(164, 212, 130);
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  .choice-image {
+    height: 75px;
+  }
+  .reset-btn{
+    height: 50px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(164, 212, 130);
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+
+
+
